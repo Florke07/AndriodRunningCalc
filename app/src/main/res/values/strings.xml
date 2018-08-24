@@ -12,4 +12,5 @@
     <string name="Distance_m">Distance [m]</string>
     <string name="Distance_km">Distance [km]</string>
     <string name="Time_hhmmss">Time [HH:MM:SS]</string>
+    <string name="button_Calculate">Calc!</string>
 </resources>
