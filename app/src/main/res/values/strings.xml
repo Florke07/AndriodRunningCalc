@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RunningCalc</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_time_distance">Time and Distance</string>
+    <string name="button_pace_distance">Pace and Distance</string>
+    <string name="time_distance">Time and Distance</string>
+    <string name="pace_distance">Pace and Distance</string>
+</resources>
