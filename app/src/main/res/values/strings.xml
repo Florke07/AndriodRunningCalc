@@ -5,4 +5,11 @@
     <string name="button_pace_distance">Pace and Distance</string>
     <string name="time_distance">Time and Distance</string>
     <string name="pace_distance">Pace and Distance</string>
+    <string name="Distance">Distance</string>
+    <string name="Time">Time</string>
+    <string name="Speed">Speed</string>
+    <string name="Pace">Pace</string>
+    <string name="Distance_m">Distance [m]</string>
+    <string name="Distance_km">Distance [km]</string>
+    <string name="Time_hhmmss">Time [HH:MM:SS]</string>
 </resources>
