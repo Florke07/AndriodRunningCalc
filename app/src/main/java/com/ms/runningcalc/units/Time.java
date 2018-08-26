@@ -65,4 +65,8 @@ public class Time {
             return calcTotalSeconds(hours, minutes, seconds);
         }
     }
+
+    public String getTime() {
+        return String.valueOf(getHours())+":"+String.valueOf(getMinutes())+":"+String.valueOf(getSeconds());
+    }
 }
