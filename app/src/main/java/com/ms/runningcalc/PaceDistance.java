@@ -42,7 +42,7 @@ public class PaceDistance extends AppCompatActivity {
 
         Time tmpTime = new Time(timeSec);
 
-
+        //TODO refactor
 
         EditText timeText = (EditText) findViewById(R.id.editText7);
         EditText speedText = (EditText) findViewById(R.id.editText8);
